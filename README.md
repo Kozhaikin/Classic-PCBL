@@ -8,4 +8,4 @@ not be contributted to anymore.
 
 <bold>Sample Screenshots</bold>
 
-<img src="https://github.com/Kozhaikin/Classic-PCBL/blob/master/Media/Screenshot%20Home.png" width="108" height="192"> <img src="https://github.com/Kozhaikin/Classic-PCBL/blob/master/Media/Screenshot%20Project%20Page.png" width="108" height="192"> <img src="https://github.com/Kozhaikin/Classic-PCBL/blob/master/Media/Screenshot%20Parts%20List.png" width="108" height="192">
+<img src="https://github.com/Kozhaikin/Classic-PCBL/blob/master/Media/Screenshot%20Home.png" width="225" height="487"><img src="https://github.com/Kozhaikin/Classic-PCBL/blob/master/Media/Screenshot%20Project%20Page.png" width="225" height="487"> <img src="https://github.com/Kozhaikin/Classic-PCBL/blob/master/Media/Screenshot%20Parts%20List.png" width="225" height="487">
