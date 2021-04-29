@@ -6,8 +6,8 @@ not be contributted to anymore.
 
 [Link to current version of Project Car Build Log](https://github.com/Kozhaikin/Project-Car-Build-Log)
 
-![Main page of the app](https://github.com/Kozhaikin/Classic-PCBL/blob/master/Media/Screenshot%20Home.png "Main Page")
+<bold>Sample Screenshots</bold>
 
-![Project page of the app](https://github.com/Kozhaikin/Classic-PCBL/blob/master/Media/Screenshot%20Project%20Page.png "Project Page")
-
-![Parts list of a project](https://github.com/Kozhaikin/Classic-PCBL/blob/master/Media/Screenshot%20Parts%20List.png "Parts List")
+<img src="https://github.com/Kozhaikin/Classic-PCBL/blob/master/Media/Screenshot%20Home.png" width="108" height="192">
+<img src="https://github.com/Kozhaikin/Classic-PCBL/blob/master/Media/Screenshot%20Project%20Page.png" width="108" height="192">
+<img src="https://github.com/Kozhaikin/Classic-PCBL/blob/master/Media/Screenshot%20Parts%20List.png" width="108" height="192">
